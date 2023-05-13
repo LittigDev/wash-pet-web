@@ -46,7 +46,7 @@
           outlined
           readonly
         ></v-text-field>
-        <v-text-field
+         <v-text-field
           value="John Doe"
           dense
           outlined
