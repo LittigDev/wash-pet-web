@@ -11,43 +11,49 @@
       </v-avatar>
     </div>
     <div class="w-form-content">
-      <div>        
+      <div class="w-field-content">
         <v-text-field
-          value="John Doe"
+          class="w-field-a"
+          value="John"
           dense
-          outlined
           readonly
+          outlined
         ></v-text-field>
         <v-text-field
-          value="John Doe"
-          dense
-          outlined
-          readonly
-        ></v-text-field>
-      </div>
-      <div>
-        <v-text-field
-          value="John Doe"
-          dense
-          outlined
-          readonly
-        ></v-text-field>
-        <v-text-field
-          value="John Doe"
+          class="w-field-b"
+          value="Doe"
           dense
           outlined
           readonly
         ></v-text-field>
       </div>
-      <div>
+      <div class="w-field-content">
         <v-text-field
-          value="John Doe"
+          class="w-field-a"
+          value="john.doe@email.com"
+          dense
+          outlined
+          readonly
+        ></v-text-field>
+        <v-text-field
+          class="w-field-b"
+          value="+55 (99) 92128-0109"
+          dense
+          outlined
+          readonly
+        ></v-text-field>
+      </div>
+      <div class="w-field-content">
+        <v-text-field
+          class="w-field-a"
+          value="767.834.833-98"
           dense
           outlined
           readonly
         ></v-text-field>
          <v-text-field
-          value="John Doe"
+          class="w-field-b"
+          value="12/02/1982"
           dense
           outlined
           readonly
@@ -76,6 +82,21 @@
   .w-form-content {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+
+    .w-field-content {
+      display: flex;
+      flex-direction: row;
+
+      .w-field-a {
+        margin-left: 100px;
+        margin-right: 15px;
+      }
+      .w-field-b {
+        margin-left: 15px;
+        margin-right: 100px;
+      }
+    }
   }
 }
 </style>
