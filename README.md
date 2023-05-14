@@ -1,13 +1,13 @@
 # Wash Pet Web
 
 ## Integrantes
-Gustavo Littig Albuquerque
-Jurandir de Oliveira Dias
-Kelle Patricia de Oliveira Silva
-Lucas dos Santos Sehnem
-Luis Gustavo da Fonseca Silva
-Paulo Henrique Santos de Amorim
-Raimundo Eduardo de Souza Lima Neto
+Gustavo Littig Albuquerque \
+Jurandir de Oliveira Dias \
+Kelle Patricia de Oliveira Silva \
+Lucas dos Santos Sehnem \
+Luis Gustavo da Fonseca Silva \
+Paulo Henrique Santos de Amorim \
+Raimundo Eduardo de Souza Lima Neto \
 Rafael Luigi de Santana Cunha
 
 ## Descrição do Projeto
@@ -17,8 +17,8 @@ Wash Pet
 
 Para executar o projeto localmente é necessário algumas ferramentas:
 
-[Link Git install](https://nodejs.org/en/download)
-[Link Node install](https://nodejs.org/en/download)
+[Link Git install](https://nodejs.org/en/download) \
+[Link Node install](https://nodejs.org/en/download) \
 [Link Yarn install](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
 
 Basta seguir as instruções na documentação para instalar as ferramentas;
