@@ -11,7 +11,14 @@ Raimundo Eduardo de Souza Lima Neto \
 Rafael Luigi de Santana Cunha
 
 ## Descrição do Projeto
-Wash Pet
+
+O  aplicativo  "Wash  Pet"  é  voltado  para  a  prestação  de  serviços  e  cuidados 
+especializados a animais de estimação, como o Pet Care e Pet Groomer, conectando 
+necessidade  dos  donos  de  animais  de  estimação  com  profissionais  qualificados  e 
+experientes na área. Com uma interface amigável e intuitiva, nosso aplicativo permite 
+aos usuários reservar serviços de tosa (groomer) para seus pets de forma simples e 
+rápida, além de oferecer uma variedade de opções de serviços e profissionais para 
+escolher.
 
 ## O que preciso para rodar o projeto?
 
