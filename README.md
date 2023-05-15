@@ -24,7 +24,7 @@ escolher.
 
 Para executar o projeto localmente é necessário algumas ferramentas:
 
-[Link Git install](https://nodejs.org/en/download) \
+[Link Git install](https://git-scm.com/downloads) \
 [Link Node install](https://nodejs.org/en/download) \
 [Link Yarn install](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
 
