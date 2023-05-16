@@ -20,6 +20,8 @@ aos usuários reservar serviços de tosa (groomer) para seus pets de forma simpl
 rápida, além de oferecer uma variedade de opções de serviços e profissionais para 
 escolher.
 
+[Vídeo Wash Pet](https://youtu.be/JxccTiHWkxM) \
+
 ## O que preciso para rodar o projeto?
 
 Para executar o projeto localmente é necessário algumas ferramentas:
